@@ -70,6 +70,7 @@ Total Records: Dataset-dependent
 
 https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL.png
 https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL%20(3).png
+https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL%20(2).png
 
 
 
