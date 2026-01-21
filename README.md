@@ -68,7 +68,9 @@ Total Records: Dataset-dependent
 
 ##  📸 Analysis Preview
 
-(Add screenshots of charts, heatmaps, or notebook outputs here)
+https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL.png
+
+
 
 👨‍💻 Author
 
