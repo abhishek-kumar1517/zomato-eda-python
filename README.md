@@ -39,6 +39,9 @@ The analysis helps understand customer preferences and market patterns in the fo
 ---
 
 ### 🧾 Dataset Overview
+
+The dataset used in this project is not uploaded to the repository due to GitHub file size limitations (file size exceeds 100 MB).
+
 **Dataset Fields:**
 - Restaurant Name
 - Location / City
