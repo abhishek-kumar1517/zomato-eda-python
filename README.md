@@ -77,7 +77,7 @@ https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL%
 👨‍💻 Author
 
 Abhishek Kumar
-📍 Data Analyst | Python | SQL | Tableau
+📍 Data Analyst | Python |
 
 🏷️ Tags
 
