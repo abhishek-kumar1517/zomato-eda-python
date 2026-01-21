@@ -68,10 +68,10 @@ Total Records: Dataset-dependent
 
 ##  📸 Analysis Preview
 
-https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL.png
-https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL%20(3).png
-https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/LOAN_APPROVAL%20(2).png
-
+https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/Zomato%20Restaurant%20Success%20Factors%20Analysis%20(2).png
+https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/Zomato%20Restaurant%20Success%20Factors%20Analysis%20(3).png
+https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/Zomato%20Restaurant%20Success%20Factors%20Analysis%20(4).png
+https://github.com/abhishek-kumar1517/zomato-eda-python/blob/main/Zomato%20Restaurant%20Success%20Factors%20Analysis.png
 
 
 👨‍💻 Author
